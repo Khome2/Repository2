@@ -1,1 +1,1 @@
-# secondRepo
+# This is a dummy repo
